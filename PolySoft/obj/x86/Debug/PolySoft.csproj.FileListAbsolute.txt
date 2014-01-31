@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\bin\Debug\PolySoft.exe
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\bin\Debug\PolySoft.pdb
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Form1.resources
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.exe
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.pdb
