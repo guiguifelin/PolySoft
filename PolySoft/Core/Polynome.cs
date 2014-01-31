@@ -12,7 +12,22 @@ namespace PolySoft
         #region Private fields
 
         private static string[] gotPolynome;
-        private static int[] operators;
+        private static char[] operators;
+
+        #endregion
+
+        // Get & Set.
+
+        #region Get & Set
+
+        public char[] Operators
+        {
+            get { return operators; }
+        }
+        public string[] Polynome
+        {
+            get { return gotPolynome; }
+        }
 
         #endregion
 
@@ -35,16 +50,19 @@ namespace PolySoft
                 }
             }
             /* Initialize operators array */
-            operators = new int[numberOfOperators];
+            operators = new char[numberOfOperators];
             newPolynome = new string[numberOfOperators + 1];
             /* Get operators */
+            int n = 0;
             for (int i = 0; i < polynome.Length; i++)
             {
-                if (i < operators.Length && (polynome[i] == '+' || polynome[i] == '*' || polynome[i] == '-' || polynome[i] == '/'))
+                if (n < operators.Length && (polynome[i] == '+' || polynome[i] == '*' || polynome[i] == '-' || polynome[i] == '/'))
                 {
-                    operators[i] = polynome[i];
+                    operators[n] = polynome[i];
+                    n++;
                 }
             }
+            /* Remove all polynome's operators */
             newPolynome = polynome.Split(new char[]{'+', '-', '*', '/'});
 
             return newPolynome;

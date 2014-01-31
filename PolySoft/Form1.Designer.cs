@@ -39,6 +39,7 @@
             this.buttonDeriver = new System.Windows.Forms.Button();
             this.textFonction = new System.Windows.Forms.TextBox();
             this.tabEtude = new System.Windows.Forms.TabPage();
+            this.tabIntegration = new System.Windows.Forms.TabPage();
             this.menuStrip1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPoly.SuspendLayout();
@@ -87,6 +88,7 @@
             // 
             this.tabControl1.Controls.Add(this.tabPoly);
             this.tabControl1.Controls.Add(this.tabEtude);
+            this.tabControl1.Controls.Add(this.tabIntegration);
             this.tabControl1.Location = new System.Drawing.Point(0, 27);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -132,6 +134,16 @@
             this.tabEtude.Text = "Etude";
             this.tabEtude.UseVisualStyleBackColor = true;
             // 
+            // tabIntegration
+            // 
+            this.tabIntegration.Location = new System.Drawing.Point(4, 22);
+            this.tabIntegration.Name = "tabIntegration";
+            this.tabIntegration.Padding = new System.Windows.Forms.Padding(3);
+            this.tabIntegration.Size = new System.Drawing.Size(556, 489);
+            this.tabIntegration.TabIndex = 2;
+            this.tabIntegration.Text = "Intégration";
+            this.tabIntegration.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -169,6 +181,7 @@
         private System.Windows.Forms.Button buttonDeriver;
         private System.Windows.Forms.TextBox textFonction;
         private System.Windows.Forms.TabPage tabEtude;
+        private System.Windows.Forms.TabPage tabIntegration;
     }
 }
 
