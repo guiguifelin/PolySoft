@@ -5,7 +5,8 @@ using System.Text;
 
 namespace PolySoft
 {
-    class Polynome
+    public class Polynome
     {
+
     }
 }
