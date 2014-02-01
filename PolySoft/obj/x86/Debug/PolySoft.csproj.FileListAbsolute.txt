@@ -5,3 +5,4 @@
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.csproj.GenerateResource.Cache
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.exe
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.pdb
+\\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.csprojResolveAssemblyReference.cache

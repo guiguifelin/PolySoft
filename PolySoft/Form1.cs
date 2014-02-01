@@ -29,15 +29,11 @@ namespace PolySoft
         private void buttonDeriver_Click(object sender, EventArgs e)
         {
             string[] polynome = Polynome.GetPolynome(textFonction.Text);
-            string newText = "";
 
-            for (int i = 0; i < polynome.Length; i++)
-            {
-                newText += polynome[i];
-            }
+            polynome = Polynome.Evaluate(polynome);
 
             textFonction.Clear();
-            textFonction.Text = newText;
+            textFonction.Text = Polynome.ToString(polynome);
         }
     }
 }
