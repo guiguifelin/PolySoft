@@ -91,7 +91,7 @@ namespace PolySoft
 
             if (j < operators.Length)
             {
-                // FIX ME
+                /* Fix ME*/
             }
             else
             {
@@ -104,7 +104,20 @@ namespace PolySoft
 
                 if (l < polynome.Length)
                 {
-                    // FIX ME
+                    //for (int i = 0; i < polynome.Length; i++)
+                    //{
+                    //    for (int n = 0; n < polynome[i].Length; n++)
+                    //    {
+                    //        if (polynome[i][n] == '(' && polynome[i][n-1] == ')')
+                    //        {
+                    //            string parenthèse = "";
+                    //            for (int a = 0; a < parenthèse.Length; a++)
+                    //            {
+                    //                parenthèse += polynome [i][a];
+                    //            }
+                    //        }
+                    //    }
+                    //}
                 }
                 else
                 {
@@ -167,7 +180,7 @@ namespace PolySoft
                                             {
                                                 if (i > 0 && operators[b] == '-')
                                                 {
-                                                    sum += (-1) * (int)Convert.ToInt64(number);
+                                                sum += (-1) * (int)Convert.ToInt64(number);
                                                 }
                                                 else
                                                 {
@@ -196,6 +209,7 @@ namespace PolySoft
         public static string ToString(string[] polynome)
         {
             string text = "";
+            //Convert.ToInt32(text);
             /* Convert in string */
             for (int i = 0; i < polynome.Length; i++)
             {

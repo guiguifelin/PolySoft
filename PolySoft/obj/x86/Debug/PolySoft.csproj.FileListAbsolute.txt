@@ -6,3 +6,21 @@
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.exe
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.pdb
 \\vmware-host\Shared Folders\Documents\Programmations\PolySoft\PolySoft\obj\x86\Debug\PolySoft.csprojResolveAssemblyReference.cache
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.exe
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.pdb
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Form1.resources
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Properties.Resources.resources
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Téléchargements\PolySoft\PolySoft\bin\Debug\PolySoft.exe
+Z:\Téléchargements\PolySoft\PolySoft\bin\Debug\PolySoft.pdb
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.exe
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.pdb
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\bin\Debug\PolySoft.exe
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\bin\Debug\PolySoft.pdb
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Form1.resources
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\PolySoft.Properties.Resources.resources
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Téléchargements\PolySoft\PolySoft\obj\x86\Debug\GenerateResource.write.1.tlog

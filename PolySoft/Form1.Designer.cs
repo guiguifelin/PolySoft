@@ -40,6 +40,7 @@
             this.textFonction = new System.Windows.Forms.TextBox();
             this.tabEtude = new System.Windows.Forms.TabPage();
             this.tabIntegration = new System.Windows.Forms.TabPage();
+            this.tKNMCopyright2014ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPoly.SuspendLayout();
@@ -68,7 +69,7 @@
             // quitterToolStripMenuItem
             // 
             this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
-            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(111, 22);
+            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.quitterToolStripMenuItem.Text = "Quitter";
             this.quitterToolStripMenuItem.Click += new System.EventHandler(this.quitterToolStripMenuItem_Click);
             // 
@@ -80,6 +81,8 @@
             // 
             // aProposToolStripMenuItem
             // 
+            this.aProposToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tKNMCopyright2014ToolStripMenuItem});
             this.aProposToolStripMenuItem.Name = "aProposToolStripMenuItem";
             this.aProposToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.aProposToolStripMenuItem.Text = "A propos";
@@ -144,6 +147,12 @@
             this.tabIntegration.Text = "Intégration";
             this.tabIntegration.UseVisualStyleBackColor = true;
             // 
+            // tKNMCopyright2014ToolStripMenuItem
+            // 
+            this.tKNMCopyright2014ToolStripMenuItem.Name = "tKNMCopyright2014ToolStripMenuItem";
+            this.tKNMCopyright2014ToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.tKNMCopyright2014ToolStripMenuItem.Text = "TKNM Copyright 2014";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -182,6 +191,7 @@
         private System.Windows.Forms.TextBox textFonction;
         private System.Windows.Forms.TabPage tabEtude;
         private System.Windows.Forms.TabPage tabIntegration;
+        private System.Windows.Forms.ToolStripMenuItem tKNMCopyright2014ToolStripMenuItem;
     }
 }
 
