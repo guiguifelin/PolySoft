@@ -178,7 +178,7 @@ namespace PolySoft
                                             }
                                             else
                                             {
-                                                if (i > 0 && operators[i] == '-')
+                                                if (i < 0 && operators[i] == '-')
                                                 {
                                                     sum += (-1) * (int)Convert.ToInt64(number);
                                                 }
