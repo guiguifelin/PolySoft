@@ -184,7 +184,7 @@ namespace PolySoft
                                                 }
                                                 else
                                                 {
-                                                    sum += (int)Convert.ToInt64(number);
+                                                    sum += /*(-1) */ (int)Convert.ToInt64(number);
                                                 }
                                             }
                                         }
@@ -210,7 +210,6 @@ namespace PolySoft
         public static string ToString(string[] polynome)
         {
             string text = "";
-            //Convert.ToInt32(text);
             /* Convert in string */
             for (int i = 0; i < polynome.Length; i++)
             {
